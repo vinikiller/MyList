@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My List</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_products">Produtos</string>
+    <string name="nav_make_list">Fazer Lista</string>
+    <string name="nav_shopping">Compras</string>
+
+    <!-- Tela Produtos -->
+    <string name="products_title">Produtos Cadastrados</string>
+    <string name="new_product">Novo Produto</string>
+    <string name="edit_product">Editar Produto</string>
+    <string name="product_name">Nome do Produto *</string>
+    <string name="price">Preço</string>
+    <string name="observation">Observação</string>
+    <string name="save">SALVAR</string>
+    <string name="update">ATUALIZAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="no_products">Nenhum produto cadastrado</string>
+    <string name="click_add">Clique no + para adicionar produtos</string>
+
+    <!-- Menu -->
+    <string name="export_data">Exportar Dados</string>
+    <string name="import_data">Importar Dados</string>
+    <string name="clear_all">Limpar Tudo</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="export_list">Exportar Lista</string>
+    <string name="import_list">Importar Lista</string>
+    <string name="clear_list">Limpar Lista</string>
+
+    <!-- ADICIONE ESTAS LINHAS -->
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+
+    <!-- Tela Fazer Lista -->
+    <string name="make_list_title">Montar Lista de Compras</string>
+    <string name="total_estimated">Total estimado: %.2f</string>
+    <string name="search_product">Digite o produto</string>
+    <string name="search_example">Ex: arroz, leite, feijão…</string>
+    <string name="found">Encontrados: %d produtos</string>
+    <string name="my_list">Minha Lista</string>
+    <string name="items">%d itens</string>
+    <string name="empty_list">Sua lista está vazia</string>
+    <string name="search_start">Busque produtos acima para começar</string>
+    <string name="add_to_list">Adicionar à Lista</string>
+    <string name="quantity">Quantidade:</string>
+    <string name="add_button">ADICIONAR</string>
+    <string name="not_found">Nenhum produto encontrado com \"%s\"</string>
+
+    <!-- Tela Compras -->
+    <string name="shopping_title">Ir às Compras</string>
+    <string name="purchased">%d de %d comprados</string>
+    <string name="total_general">Total Geral</string>
+    <string name="remaining">Restante</string>
+    <string name="no_items_list">Nenhum item na lista</string>
+    <string name="go_make_list">Vá para \'Fazer Lista\' para adicionar produtos</string>
+
+    <!-- Mensagens -->
+    <string name="success_export">✅ Lista exportada com sucesso!</string>
+    <string name="error_export">❌ Erro ao exportar: %s</string>
+    <string name="success_import">✅ Lista importada! %d itens carregados.</string>
+    <string name="error_import">❌ Erro ao importar: %s</string>
+    <string name="cleared_all">✅ Todos os dados foram limpos!</string>
+    <string name="cleared_list">✅ Lista limpa!</string>
+</resources>

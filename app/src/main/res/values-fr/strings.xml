@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My List</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_products">Produits</string>
+    <string name="nav_make_list">Créer Liste</string>
+    <string name="nav_shopping">Courses</string>
+
+    <!-- Écran Produits -->
+    <string name="products_title">Produits Enregistrés</string>
+    <string name="new_product">Nouveau Produit</string>
+    <string name="edit_product">Modifier Produit</string>
+    <string name="product_name">Nom du Produit *</string>
+    <string name="price">Prix</string>
+    <string name="observation">Notes</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="update">METTRE À JOUR</string>
+    <string name="cancel">ANNULER</string>
+    <string name="no_products">Aucun produit enregistré</string>
+    <string name="click_add">Cliquez sur + pour ajouter des produits</string>
+
+    <!-- Menu -->
+    <string name="export_data">Exporter les Données</string>
+    <string name="import_data">Importer les Données</string>
+    <string name="clear_all">Tout Effacer</string>
+    <string name="privacy_policy">Politique de Confidentialité</string>
+    <string name="export_list">Exporter la Liste</string>
+    <string name="import_list">Importer la Liste</string>
+    <string name="clear_list">Effacer la Liste</string>
+
+    <!-- ADICIONE ESTAS LINHAS -->
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+
+    <!-- Écran Créer Liste -->
+    <string name="make_list_title">Créer Liste de Courses</string>
+    <string name="total_estimated">Total estimé: %.2f</string>
+    <string name="search_product">Rechercher un produit</string>
+    <string name="search_example">Ex: riz, lait, haricots…</string>
+    <string name="found">Trouvés: %d produits</string>
+    <string name="my_list">Ma Liste</string>
+    <string name="items">%d articles</string>
+    <string name="empty_list">Votre liste est vide</string>
+    <string name="search_start">Recherchez des produits ci-dessus pour commencer</string>
+    <string name="add_to_list">Ajouter à la Liste</string>
+    <string name="quantity">Quantité:</string>
+    <string name="add_button">AJOUTER</string>
+    <string name="not_found">Aucun produit trouvé avec \"%s\"</string>
+
+    <!-- Écran Courses -->
+    <string name="shopping_title">Faire les Courses</string>
+    <string name="purchased">%d sur %d achetés</string>
+    <string name="total_general">Total</string>
+    <string name="remaining">Restant</string>
+    <string name="no_items_list">Aucun article dans la liste</string>
+    <string name="go_make_list">Allez dans \'Créer Liste\' pour ajouter des produits</string>
+
+    <!-- Messages -->
+    <string name="success_export">✅ Liste exportée avec succès!</string>
+    <string name="error_export">❌ Erreur d\'exportation: %s</string>
+    <string name="success_import">✅ Liste importée! %d articles chargés.</string>
+    <string name="error_import">❌ Erreur d\'importation: %s</string>
+    <string name="cleared_all">✅ Toutes les données ont été effacées!</string>
+    <string name="cleared_list">✅ Liste effacée!</string>
+</resources>

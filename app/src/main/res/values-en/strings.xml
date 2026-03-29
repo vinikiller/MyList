@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My List</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_products">Products</string>
+    <string name="nav_make_list">Make List</string>
+    <string name="nav_shopping">Shopping</string>
+
+    <!-- Products Screen -->
+    <string name="products_title">Registered Products</string>
+    <string name="new_product">New Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="product_name">Product Name *</string>
+    <string name="price">Price</string>
+    <string name="observation">Notes</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="no_products">No products registered</string>
+    <string name="click_add">Click + to add products</string>
+
+    <!-- ADICIONE ESTAS LINHAS -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <!-- Menu -->
+    <string name="export_data">Export Data</string>
+    <string name="import_data">Import Data</string>
+    <string name="clear_all">Clear All</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="export_list">Export List</string>
+    <string name="import_list">Import List</string>
+    <string name="clear_list">Clear List</string>
+
+    <!-- Make List Screen -->
+    <string name="make_list_title">Create Shopping List</string>
+    <string name="total_estimated">Estimated total: %.2f</string>
+    <string name="search_product">Search product</string>
+    <string name="search_example">Ex: rice, milk, beans…</string>
+    <string name="found">Found: %d products</string>
+    <string name="my_list">My List</string>
+    <string name="items">%d items</string>
+    <string name="empty_list">Your list is empty</string>
+    <string name="search_start">Search for products above to start</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="quantity">Quantity:</string>
+    <string name="add_button">ADD</string>
+    <string name="not_found">No products found with \"%s\"</string>
+
+    <!-- Shopping Screen -->
+    <string name="shopping_title">Go Shopping</string>
+    <string name="purchased">%d of %d purchased</string>
+    <string name="total_general">Total</string>
+    <string name="remaining">Remaining</string>
+    <string name="no_items_list">No items in list</string>
+    <string name="go_make_list">Go to \'Make List\' to add products</string>
+
+    <!-- Messages -->
+    <string name="success_export">✅ List exported successfully!</string>
+    <string name="error_export">❌ Export error: %s</string>
+    <string name="success_import">✅ List imported! %d items loaded.</string>
+    <string name="error_import">❌ Import error: %s</string>
+    <string name="cleared_all">✅ All data has been cleared!</string>
+    <string name="cleared_list">✅ List cleared!</string>
+</resources>
